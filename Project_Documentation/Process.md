@@ -215,7 +215,7 @@ Created analytical tables:
 
 ---
 
-<img width="940" height="506" alt="image" src="https://github.com/user-attachments/assets/70f46111-a93e-43a5-b8a5-1e8c2ea90de0" />
+<img width="1915" height="1030" alt="image" src="https://github.com/user-attachments/assets/6f43201f-2f75-4091-87e6-0af6dfeab5bf" />
 
 ---
 
